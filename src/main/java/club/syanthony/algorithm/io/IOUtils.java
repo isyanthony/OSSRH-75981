@@ -1,6 +1,6 @@
-package com.syanthony.algorithm.io;
+package club.syanthony.algorithm.io;
 
-import com.syanthony.algorithm.convert.ArrayUtils;
+import club.syanthony.algorithm.convert.ArrayUtils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

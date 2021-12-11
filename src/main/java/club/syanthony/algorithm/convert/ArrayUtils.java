@@ -1,4 +1,4 @@
-package com.syanthony.algorithm.convert;
+package club.syanthony.algorithm.convert;
 
 /**
  * @author: Anthony

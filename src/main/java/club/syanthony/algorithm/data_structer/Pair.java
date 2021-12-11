@@ -1,4 +1,4 @@
-package com.syanthony.algorithm.data_structer;
+package club.syanthony.algorithm.data_structer;
 
 /**
  * @author: Anthony

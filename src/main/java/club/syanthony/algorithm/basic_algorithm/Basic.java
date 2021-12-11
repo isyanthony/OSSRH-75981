@@ -1,4 +1,4 @@
-package com.syanthony.algorithm.basic_algorithm;
+package club.syanthony.algorithm.basic_algorithm;
 
 import java.util.List;
 
